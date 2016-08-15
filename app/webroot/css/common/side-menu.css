@@ -1,0 +1,25 @@
+.side-menu{
+    width: 20%;
+    float: left;
+}
+
+.product-type,
+.shop-menu,
+.category-menu,
+.sale-date,
+.sns{
+    padding: 20px;
+}
+
+.side-menu li{
+    padding: 2px;
+}
+
+.side-menu li a{
+    font-size: 12px;
+    color: #8081FF;    
+}
+
+.side-menu li a:hover{
+    text-decoration: underline;
+}

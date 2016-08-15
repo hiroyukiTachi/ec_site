@@ -1,0 +1,22 @@
+.coordinate-sidebar{
+    width: 20%;
+    float: left;
+}
+
+.sale-date{
+    padding:20px;
+}
+
+.coordinate-sidebar li{    
+    padding: 2px;
+}
+
+.coordinate-sidebar li a{
+    font-size: 12px;
+    color: #8081FF;    
+}
+
+.coordinate-sidebar li a:hover{
+    text-decoration: underline;
+}
+

@@ -1,0 +1,21 @@
+.category-list{
+    width: auto;
+}
+
+.category-list-panel{
+    padding:20px;
+}
+
+.category-list-panel li {
+    padding: 10px;
+}
+
+.category-list-panel li a{
+    font-size: 14px;
+}
+
+.category-list-panel li a:hover {
+    color:#8081FF;
+}
+
+

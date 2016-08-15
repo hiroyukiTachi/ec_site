@@ -1,0 +1,21 @@
+.ranking-content{
+    width: 80%;
+    float:left;
+}
+
+.ranking-list{
+    padding:20px;
+}
+
+.ranking-list li{
+    float:left;
+    padding:10px;
+}
+
+.ranking-list li a{
+    font-size: 14px;
+}
+
+.ranking-list li a:hover{
+    color:#8081FF;
+}

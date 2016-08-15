@@ -1,0 +1,38 @@
+.site-title{
+    float: left;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.site-title a{
+    font-size:30px;
+    font-weight: bold;
+    font-style: italic;
+    color:#8081FF;    
+    letter-spacing:12px;        
+}
+
+.g-nav{    
+    padding-top: 15px;    
+    float: right;
+}
+
+.geust-name{
+    font-size: 12px;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.g-nav li {        
+    float: left;
+}
+
+.g-nav li a{
+    font-size: 11px;    
+    border-left: 1px dotted #000;
+    padding: 0 12px;    
+}
+
+.g-nav li a:hover{
+    text-decoration: underline;
+}

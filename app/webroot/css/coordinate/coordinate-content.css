@@ -1,0 +1,21 @@
+.coordinate-content{
+    width: 80%;
+    float:left;
+}
+
+.coordinate-list{
+    padding:20px;
+}
+
+.coordinate-list li{
+    padding: 10px;
+    float: left; 
+}
+
+.coordinate-list li a{
+    font-size: 14px;
+}
+
+.coordinate-list li a:hover{
+    color:#8081FF;
+}

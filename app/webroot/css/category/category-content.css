@@ -1,0 +1,31 @@
+.category-content{
+    width: 80%;
+    float:left;
+}
+
+.category-list{
+    padding: 20px;
+}
+
+.select-search-conditions select{
+    width: 150px;
+    margin-right: 30px;
+}
+
+.best{
+    margin-top: 15px;
+}
+
+.best li{
+    float:left;
+    padding:10px;
+}
+
+.best li a{
+    font-size: 14px;
+}
+
+.best li a:hover{
+    color:#8081FF;
+}
+

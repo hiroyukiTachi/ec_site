@@ -1,0 +1,31 @@
+.tops-content{
+    width: 80%;
+    float:left;
+}
+
+.catalog,
+.new-products,
+.ranking,
+.favorite-products,
+.news{
+    padding:20px;
+}
+
+.tops-content li{
+    padding: 10px;
+    float: left; 
+}
+
+.tops-content li a{
+    font-size: 14px;
+}
+
+.tops-content li a:hover{
+    color:#8081FF;
+}
+
+.news li{   
+    float: none;
+    border-bottom: 1px dotted #000;
+    padding: 5px;    
+}

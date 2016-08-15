@@ -1,0 +1,35 @@
+.category-sidebar{
+    width: 20%;
+    float: left;
+}
+
+.sex-type,
+.product-type,
+.handing-type,
+.shop-type,
+.category,
+.sale-date,
+.color,
+.size,
+.price{
+    padding:20px;
+}
+
+.category-sidebar li{    
+    padding: 2px;
+}
+
+.category-sidebar li a{
+    font-size: 12px;
+    color: #8081FF;    
+}
+
+.category-sidebar li a:hover{
+    text-decoration: underline;
+}
+
+.color ul,
+.size ul,
+.price ul{
+    display: none;
+}

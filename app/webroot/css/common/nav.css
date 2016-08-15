@@ -1,0 +1,45 @@
+.main-nav{
+    float: left;
+    padding: 10px 0;
+}
+
+.main-nav li{
+    padding: 0 30px;
+    border-left: 1px dotted #fff;
+    float: left;
+}
+
+.main-nav li a{
+    font-size:13px;
+    color:#fff;    
+}
+
+.main-nav li a:hover{
+    opacity: 0.5;
+}
+
+.serach-area{
+    float: right;
+    padding: 10px 0;
+}
+
+.serach-area input[type="text"]{
+    width: 250px;
+    padding:0 5px;
+}
+
+.serach-area input[type="submit"]{
+    padding:0 5px;
+    margin-left: -6px;
+}
+
+.detail-serach{
+    font-size: 13px;
+    color:#fff;
+    border-left: 1px dotted #fff;
+    padding: 0 15px;
+}
+
+.detail-serach:hover{
+    text-decoration: underline;
+}

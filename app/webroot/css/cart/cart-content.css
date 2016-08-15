@@ -1,0 +1,20 @@
+.cart-content{
+    width: auto;    
+}
+
+.cart-list{
+    padding: 20px;
+}
+
+.cart-list li{
+    padding: 10px;
+    float: left; 
+}
+
+.cart-list li a{
+    font-size: 14px;
+}
+
+.cart-list li a:hover{
+    color:#8081FF;
+}

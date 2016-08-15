@@ -1,0 +1,22 @@
+.search-result{
+    height: 1000px;
+    padding:20px;
+}
+
+.search-result li{
+    padding: 10px;
+    float: left; 
+}
+
+.search-result li a{
+    font-size: 14px;
+}
+
+.search-result li a:hover{
+    color:#8081FF;
+}
+
+#flashMessage{
+    font-size: 22px;
+    padding:180px;
+}
